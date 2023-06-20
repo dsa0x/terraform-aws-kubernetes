@@ -1,5 +1,12 @@
 # AWS kubernetes resources
 
+<br>
+
+> :warning:, :red_circle:, :green_circle:
+
+:warning:
+:green_circle:
+
 ## Introduction
 
 This module manages required AWS Kubernetes resources as EKS clusters.
