@@ -7,6 +7,8 @@
 :warning:
 :green_circle:
 
+terraform import aws_iam_policy.administrator arn:aws:iam::123456789012:policy/UsersManageOwnCredentials
+
 ## Introduction
 
 This module manages required AWS Kubernetes resources as EKS clusters.
